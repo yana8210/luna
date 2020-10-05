@@ -1,3 +1,3 @@
-# luna <img src="picture.sv
+# luna <img src="picture.svg
 <img src="picture.svg&#9434
 
